@@ -1,4 +1,4 @@
-package edu.upvictoria.fpoo;
+package edu.upvictoria.fpoo.Problema1;
 
 public class Suma{
     public int sumar(int a,int b){

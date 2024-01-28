@@ -1,4 +1,4 @@
-package edu.upvictoria.fpoo;
+package edu.upvictoria.fpoo.Problema1;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 

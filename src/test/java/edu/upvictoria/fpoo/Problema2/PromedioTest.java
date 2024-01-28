@@ -1,4 +1,4 @@
-package edu.upvictoria.fpoo;
+package edu.upvictoria.fpoo.Problema2;
 
 import junit.framework.TestCase;
 import org.junit.Test;

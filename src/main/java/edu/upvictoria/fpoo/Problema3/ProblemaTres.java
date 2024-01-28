@@ -1,4 +1,4 @@
-package edu.upvictoria.fpoo;
+package edu.upvictoria.fpoo.Problema3;
 
 import java.awt.geom.Area;
 import java.io.BufferedReader;

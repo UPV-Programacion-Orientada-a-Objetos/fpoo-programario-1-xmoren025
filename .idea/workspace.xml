@@ -4,7 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaa9a509-98da-41c0-b1aa-d1d0821dfc6c" name="Changes" comment="" />
+    <list default="true" id="eaa9a509-98da-41c0-b1aa-d1d0821dfc6c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema1/ProblemaUno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema1/Suma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema10/PedidoTela.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema10/ProblemaDiez.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema11/PagoAgua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema11/ProblemaOnce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema12/AreaTri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema12/ProblemaDoce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema13/PesoDolar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema13/ProblemaTrece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema14/Edad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema14/ProblemaCatorce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema15/PagoE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema15/ProblemaQuince.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema16/ProblemaDSeis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema2/ProblemaDos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema2/Promedio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema3/AreaRect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema3/ProblemaTres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema4/AreaCir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema4/ProblemaCuatro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema5/AreaTerr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema5/ProblemaCinco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema6/AreaCono.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema6/ProblemaSeis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema7/PagoLeche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema7/ProblemaSiete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema8/Distancia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema8/ProblemaOcho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema9/ProblemaNueve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Problema9/Sueldo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/Problema4/AreaCirTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/Problema5/AreaTerrTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/Problema6/AreaConoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/Problema7/PagoLecheTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/Problema8/DistanciaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/AreaRectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/Problema3/AreaRectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/PromedioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/Problema2/PromedioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/SumaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/Problema1/SumaTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,15 +57,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit3 Test Class" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo" />
   </component>
   <component name="JavaAutoRunManager">
     <enabled-run-configurations>
       <run-configuration type="JUnit" name="SumaTest" />
     </enabled-run-configurations>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -31,29 +81,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App.executor": "Run",
-    "JUnit.PromedioTest.executor": "Run",
-    "JUnit.SumaTest.executor": "Run",
-    "Maven.App [clean].executor": "Run",
-    "Maven.App [compile].executor": "Run",
-    "Maven.App [test].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/xmore/OneDrive/Escritorio/App",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PromedioTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SumaTest.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.App [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.App [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.App [test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.App [validate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit3&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/xmore/OneDrive/Escritorio/fpoo-programario-1-xmoren025&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="junit.framework.TestCase" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.upvictoria.fpoo.Problema3" />
+      <recent name="edu.upvictoria.fpoo.Problema2" />
+      <recent name="edu.upvictoria.fpoo.Problema1" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="edu.upvictoria.fpoo" />
+      <recent name="edu.upvictoria.fpoo.Problema8" />
+      <recent name="edu.upvictoria.fpoo.Problema7" />
+      <recent name="edu.upvictoria.fpoo.Problema6" />
+      <recent name="edu.upvictoria.fpoo.Problema5" />
+      <recent name="edu.upvictoria.fpoo.Problema4" />
     </key>
   </component>
   <component name="RunManager" selected="Application.App">
@@ -62,7 +124,7 @@
       <module name="App" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.upvictoria.fpoo.*" />
+          <option name="PATTERN" value="edu.upvictoria.fpoo.Problema1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +136,12 @@
       <module name="App" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.upvictoria.fpoo.*" />
+          <option name="PATTERN" value="edu.upvictoria.fpoo.Problema1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="edu.upvictoria.fpoo" />
-      <option name="MAIN_CLASS_NAME" value="edu.upvictoria.fpoo.PromedioTest" />
+      <option name="PACKAGE_NAME" value="edu.upvictoria.fpoo.Problema2" />
+      <option name="MAIN_CLASS_NAME" value="edu.upvictoria.fpoo.Problema2.PromedioTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,12 +151,12 @@
       <module name="App" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.upvictoria.fpoo.*" />
+          <option name="PATTERN" value="edu.upvictoria.fpoo.Problema1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="edu.upvictoria.fpoo" />
-      <option name="MAIN_CLASS_NAME" value="edu.upvictoria.fpoo.SumaTest" />
+      <option name="PACKAGE_NAME" value="edu.upvictoria.fpoo.Problema1" />
+      <option name="MAIN_CLASS_NAME" value="edu.upvictoria.fpoo.Problema1.SumaTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />

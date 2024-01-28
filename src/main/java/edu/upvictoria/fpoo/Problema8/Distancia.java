@@ -1,0 +1,9 @@
+package edu.upvictoria.fpoo.Problema8;
+
+import static java.lang.Math.*;
+
+public class Distancia{
+    public double calcularDistancia(int x1,int y1,int x2,int y2){
+           return sqrt(pow(x2-x1,2)+pow(y2-y1,2));
+    }
+}
