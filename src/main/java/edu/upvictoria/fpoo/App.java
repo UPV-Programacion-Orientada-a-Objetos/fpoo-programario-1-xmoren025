@@ -86,46 +86,46 @@ public class App
                     edu.upvictoria.fpoo.Problema15.ProblemaQuince obj15;
                     obj15=new edu.upvictoria.fpoo.Problema15.ProblemaQuince();
                     break;
-//                case 16:
-//                    edu.upvictoria.fpoo.Problema16.ProblemaDSeis obj16;
-//                    obj16=new edu.upvictoria.fpoo.Problema16.ProblemaDSeis();
-//                    break;
-//                case 17:
-//                    edu.upvictoria.fpoo.Problema17.ProblemaDSiete obj17;
-//                    obj17=new edu.upvictoria.fpoo.Problema17.ProblemaDSiete();
-//                    break;
-//                case 18:
-//                    edu.upvictoria.fpoo.Problema18.ProblemaDOcho obj18;
-//                    obj18=new edu.upvictoria.fpoo.Problema18.ProblemaDOcho();
-//                    break;
-//                case 19:
-//                    edu.upvictoria.fpoo.Problema19.ProblemaDNueve obj19;
-//                    obj19=new edu.upvictoria.fpoo.Problema19.ProblemaDNueve();
-//                    break;
-//                case 20:
-//                    edu.upvictoria.fpoo.Problema20.ProblemaVeinte obj20;
-//                    obj20=new edu.upvictoria.fpoo.Problema20.ProblemaVeinte();
-//                    break;
-//                case 21:
-//                    edu.upvictoria.fpoo.Problema21.ProblemaVUno obj21;
-//                    obj21=new edu.upvictoria.fpoo.Problema21.ProblemaVUno();
-//                    break;
-//                case 22:
-//                    edu.upvictoria.fpoo.Problema22.ProblemaVDos obj22;
-//                    obj22=new edu.upvictoria.fpoo.Problema22.ProblemaVDos();
-//                    break;
-//                case 23:
-//                    edu.upvictoria.fpoo.Problema23.ProblemaVTres obj23;
-//                    obj23=new edu.upvictoria.fpoo.Problema23.ProblemaVTres();
-//                    break;
-//                case 24:
-//                    edu.upvictoria.fpoo.Problema24.ProblemaVCuatro obj24;
-//                    obj24=new edu.upvictoria.fpoo.Problema24.ProblemaVCuatro();
-//                    break;
-//                case 25:
-//                    edu.upvictoria.fpoo.Problema25.ProblemaVCinco obj25;
-//                    obj25=new edu.upvictoria.fpoo.Problema25.ProblemaVCinco();
-//                    break;
+                case 16:
+                    edu.upvictoria.fpoo.Problema16.ProblemaDSeis obj16;
+                    obj16=new edu.upvictoria.fpoo.Problema16.ProblemaDSeis();
+                    break;
+                case 17:
+                    edu.upvictoria.fpoo.Problema17.ProblemaDSiete obj17;
+                    obj17=new edu.upvictoria.fpoo.Problema17.ProblemaDSiete();
+                    break;
+                case 18:
+                    edu.upvictoria.fpoo.Problema18.ProblemaDOcho obj18;
+                    obj18=new edu.upvictoria.fpoo.Problema18.ProblemaDOcho();
+                    break;
+                case 19:
+                    edu.upvictoria.fpoo.Problema19.ProblemaDNueve obj19;
+                    obj19=new edu.upvictoria.fpoo.Problema19.ProblemaDNueve();
+                    break;
+                case 20:
+                    edu.upvictoria.fpoo.Problema20.ProblemaVeinte obj20;
+                    obj20=new edu.upvictoria.fpoo.Problema20.ProblemaVeinte();
+                    break;
+                case 21:
+                    edu.upvictoria.fpoo.Problema21.ProblemaVUno obj21;
+                    obj21=new edu.upvictoria.fpoo.Problema21.ProblemaVUno();
+                    break;
+                case 22:
+                    edu.upvictoria.fpoo.Problema22.ProblemaVDos obj22;
+                    obj22=new edu.upvictoria.fpoo.Problema22.ProblemaVDos();
+                    break;
+                case 23:
+                    edu.upvictoria.fpoo.Problema23.ProblemaVTres obj23;
+                    obj23=new edu.upvictoria.fpoo.Problema23.ProblemaVTres();
+                    break;
+                case 24:
+                    edu.upvictoria.fpoo.Problema24.ProblemaVCuatro obj24;
+                    obj24=new edu.upvictoria.fpoo.Problema24.ProblemaVCuatro();
+                    break;
+                case 25:
+                    edu.upvictoria.fpoo.Problema25.ProblemaVCinco obj25;
+                    obj25=new edu.upvictoria.fpoo.Problema25.ProblemaVCinco();
+                    break;
                 default:
                     break;
             }
